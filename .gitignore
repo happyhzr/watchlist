@@ -1,5 +1,7 @@
 venv/
 __pycache__/
+htmlcov/
 
 .env
 data.db
+.coverage
